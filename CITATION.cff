@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this module, please cite it and the scrapper package it wraps."
+title: "ambient-clustering: clustering of called cells for the omni-scrna ambient RNA benchmark"
+authors:
+  - family-names: Busch
+    given-names: Pauline
+version: 0.1.0
+repository-code: "https://github.com/omni-scrna/ambient-clustering"
+license: MIT
+references:
+  - type: software
+    title: "scrapper: Bindings to C++ Libraries for Single-Cell Analysis"
+    authors:
+      - family-names: Lun
+        given-names: Aaron
+    repository-code: "https://github.com/libscran/scrapper"
