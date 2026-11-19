@@ -6,7 +6,7 @@ An [omnibenchmark](https://omnibenchmark.org) module for the stage `CLUSTER`, wh
 
 ## Entrypoint `default` (`run.R`)
 
-Standard graph-based clustering with [scrapper](https://github.com/libscran/scrapper): Gene Expression features of the called cells → log-normalised counts → highly variable genes → PCA → shared nearest-neighbour graph → multilevel (Louvain) clustering.
+Standard graph-based clustering with [scrapper](https://github.com/libscran/scrapper): Gene Expression features of the called cells --> log-normalised counts --> highly variable genes --> PCA --> shared nearest-neighbour graph --> multilevel (Louvain) clustering.
 
 | flag | meaning |
 |---|---|
